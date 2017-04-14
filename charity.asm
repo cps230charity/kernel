@@ -148,4 +148,4 @@ section .data
 
 	stack_num	dd 	1
 
-	msg 	dd "this is change",13,10,0
+	msg 	dd "this is change", 13, 10, 0
